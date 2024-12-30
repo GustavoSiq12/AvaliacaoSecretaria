@@ -204,5 +204,5 @@ if __name__ == "__main__":
   arquivos_gerados = salvar_resultados(estatisticas, pendentes)
   
   # Envio dos relatórios para os devidos emails
-  enviar_relatorios(arquivos_gerados, "email_remetente", "senha")
+  # enviar_relatorios(arquivos_gerados, "email_remetente", "senha")
   
